@@ -26,7 +26,7 @@ const Home = () => {
           headerRight: () => (
             <ScreenHeaderBtn iconUrl={images.profile} dimension="150%" />
           ),
-          headerTitle: '',
+          headerTitle: 'BusinessApp',
         }}
       />
 
